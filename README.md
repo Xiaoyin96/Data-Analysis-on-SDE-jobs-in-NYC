@@ -36,7 +36,7 @@ We use the dataset [NYC_jobs](https://catalog.data.gov/dataset/nyc-jobs-26c80) f
 - Then we use software related keyword search in columns 'Job Category' and 'Business Title', e.g. 'INFORMATION|SOFTWARE|DATA|NETWORK|ANALYST|IT|DEVELOPER'.  
 - Now, we have 373 job positions related to software, attached with detailed information.
 
-### Part 2 Data overview
+### Part 2 Data overview (using Altair)
 We plot a pie chart using all job categories to give us a impression of whole job distribution.  
 Also, we use Altair to plot a jobs category vs salary range plot to see each job category's salary distribution.
 
