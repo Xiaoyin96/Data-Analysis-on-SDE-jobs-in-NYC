@@ -24,7 +24,7 @@ from altair import Chart, load_dataset
 ```
 
 
-#### Part 1 Data Processing
+### Part 1 Data Processing
 We use the dataset [NYC_jobs](https://catalog.data.gov/dataset/nyc-jobs-26c80) from the government website.  
 - First, we use 'Job category' to count the entire job category and plot a pie chart to give us an overview.  
 - Then, we delete some irrelevant columns(parameters that do not have major relationship with software related jobs), e.g. 'Job ID','Posting Date','Posting Updated','Process Date', etc. Also we uppercase all information in the dataframe.  
