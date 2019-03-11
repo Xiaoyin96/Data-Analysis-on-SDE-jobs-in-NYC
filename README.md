@@ -18,9 +18,14 @@ from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 init_notebook_mode(connected=True)
 ```
 ```
+pip install altair
 import altair as alt
 alt.renderers.enable('notebook')
 from altair import Chart, load_dataset
+```
+```
+pip install geopy
+from geopy.geocoders import Nominatim
 ```
 
 
