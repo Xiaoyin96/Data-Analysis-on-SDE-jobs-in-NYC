@@ -38,6 +38,7 @@ df1.head()
 pd.DataFrame(df1['Job Category'].value_counts()).head()
 
 
+
 # In[12]:
 
 
