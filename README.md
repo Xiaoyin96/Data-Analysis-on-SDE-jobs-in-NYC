@@ -39,7 +39,8 @@ We use the dataset [NYC_jobs](https://catalog.data.gov/dataset/nyc-jobs-26c80) f
 ### Part 2 Data overview (using Altair)
 We plot a pie chart using all job categories to give us a impression of whole job distribution.  
 ![](./pic/job_overview.png)   
-Also, we use Altair to plot a jobs category vs salary range plot to see each job category's salary distribution.
+Also, we use Altair to plot a jobs category vs salary range plot to see each job category's salary distribution.  
+![](./pic/salary_range.png)    
 
 ### Part 3 Scape keyword from columns with long sentences 
 Columns 'Prefered Skills' and 'Minimum Qual Requirements' have a lot of job description, also contains a lot of strings.  
@@ -47,7 +48,8 @@ Here we apply a function in each column to split each string and count the frequ
 We come up with some frequent keywords in both skills and requirement and plot bar chart.  
 
 ### Part 4 Title keyword search
-We apply the same function to count each keyword in the column 'Business Title'. Then we have an overview of software related business title distribution.
+We apply the same function to count each keyword in the column 'Business Title'. Then we have an overview of software related business title distribution.  
+![](./pic/software_overview.png) 
 
 ### Part 5 Geological Job and Salary Distribution (using Geopy)
 
