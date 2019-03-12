@@ -38,7 +38,7 @@ We use the dataset [NYC_jobs](https://catalog.data.gov/dataset/nyc-jobs-26c80) f
 
 ### Part 2 Data overview (using Altair)
 We plot a pie chart using all job categories to give us a impression of whole job distribution.  
-![](./pic/Job_overview.png) 
+![](./pic/job_overview.png)   
 Also, we use Altair to plot a jobs category vs salary range plot to see each job category's salary distribution.
 
 ### Part 3 Scape keyword from columns with long sentences 
