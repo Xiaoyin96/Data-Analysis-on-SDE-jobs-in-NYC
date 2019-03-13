@@ -60,6 +60,6 @@ We apply the same function to count each keyword in the column 'Business Title'.
 ![](./pic/map1.png) 
 ![](./pic/location_map2.png)
 
-### Part 6 Skill-Salary distribution  
+### Part 6 Education/Skill-Salary distribution  
 We focus on software skills and related salary distribution and compare each skill, which gives us a prospective of relation between mastering skills and salary income.
 ![](./pic/Education-salary.jpeg)
