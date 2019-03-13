@@ -56,6 +56,8 @@ We apply the same function to count each keyword in the column 'Business Title'.
 <div>  
     <a href="https://plot.ly/~xiaoyin96/20/?share_key=QXUBrhBmAwu0DmPwEQW1dn" target="_blank" title="Location map" style="display: block; text-align: center;"><img src="https://plot.ly/~xiaoyin96/20.png?share_key=QXUBrhBmAwu0DmPwEQW1dn" alt="Location map" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>  
 </div> 
+![](./pic/location_map.png)
+![](./pic/location_map2.png)
 
 ### Part 6 Skill-Salary distribution  
 We focus on software skills and related salary distribution and compare each skill, which gives us a prospective of relation between mastering skills and salary income.
